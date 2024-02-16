@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>战团地点查找</title>
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/pinyin-match@1.2.5/dist/main.min.js"></script>
+</head>
+
+<body>
+    <h1>大地图相对位置</h1>
+    <label for="start-location">起点：</label>
+    <input type="text" id="start-location" placeholder="输入起点">
+
+    <label for="end-location">终点：</label>
+    <input type="text" id="end-location" placeholder="输入终点">
+    <select id="mapSelector" onchange="updateMap()">
+        <option value="Native">Native版本地图</option>
+        <option value="Sanguo">三国版本地图</option>
+    </select>
+    <div>搜索框支持拼音首字母、中文；整体或部分匹配。</div>
+    <div id="scatter-plot"></div>
+
+    <script>
+        function updateMap() {
+            selectedMap = document.getElementById('mapSelector').value;
+            var filePath = './data/jsons/' + selectedMap + '_data_and_layout.json';
+            console.log(filePath)
+            fetch(filePath)
+                .then(response => response.json())
+                .then(data => {
+                    layout = data.layout;
+                    traces = data.data;
+
+                    // 创建图表
+                    Plotly.newPlot('scatter-plot', traces, layout);
+                })
+                .catch(error => console.error('Error loading data:', error));
+        }
+        var selectedMap = 'Native';
+        updateMap()
+
+        // 获取起点和终点的输入框元素
+        var startInput = document.getElementById('start-location');
+        var endInput = document.getElementById('end-location');
+
+        // 添加事件监听器，当用户输入时更新图表
+        startInput.addEventListener('input', updateChart);
+        endInput.addEventListener('input', updateChart);
+
+        // 更新图表的函数
+        function updateChart() {
+            // 获取用户输入的起点和终点名字
+            var startLocation = startInput.value.trim();
+            var endLocation = endInput.value.trim();
+
+            // 查找匹配的地点名字
+            var startMatches = findMatches(startLocation);
+            var endMatches = findMatches(endLocation);
+            // 更新图表布局中的匹配节点的样式
+            layout.shapes = getHighlightedShapes(startMatches, 'red').concat(getHighlightedShapes(endMatches, 'blue'));
+
+            // 重新绘制图表
+            Plotly.newPlot('scatter-plot', traces, layout);
+        }
+
+        // 查找匹配的地点名字函数
+        function findMatches(locationName) {
+            // 遍历数据，找到匹配的地点名字，并返回匹配项的索引
+            var matches = [];
+            for (var i = 0; i < traces.length; i++) {
+                var trace = traces[i];
+                for (var j = 0; j < trace.text.length; j++) {
+                    var node = trace.text[j];
+                    if (PinyinMatch.match(node, locationName)) {
+                        matches.push({ traceIndex: i, nodeIndex: j })
+                        console.log(node)
+                    }
+                }
+            }
+            return matches;
+        }
+
+        // 获取高亮节点样式的函数
+        function getHighlightedShapes(matches, color) {
+            var shapes = [];
+            for (var i = 0; i < matches.length; i++) {
+                console.log(matches.length)
+                var match = matches[i];
+                var shape = {
+                    type: 'rect',
+                    xref: 'x',
+                    yref: 'y',
+                    x0: traces[match.traceIndex].x[match.nodeIndex] - 2.5,
+                    y0: traces[match.traceIndex].y[match.nodeIndex] - 2.5,
+                    x1: traces[match.traceIndex].x[match.nodeIndex] + 2.5,
+                    y1: traces[match.traceIndex].y[match.nodeIndex] + 2.5,
+                    fillcolor: color,
+                    opacity: 1,
+                    layer: 'above',
+                    line: { width: 0 },
+                };
+                shapes.push(shape);
+            }
+            console.log(shapes)
+            return shapes;
+        }
+    </script>
+</body>
+
+</html>

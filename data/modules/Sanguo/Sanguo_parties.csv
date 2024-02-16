@@ -1,0 +1,467 @@
+﻿p_zendar|Zendar{***}
+p_town_1|陈 留 国 ☆陈 留 
+p_town_2|豫 章 郡 ☆鄱 阳 
+p_town_3|南 阳 郡 ☆宛 城 
+p_town_4|齐 国 ☆临 淄 
+p_town_5|司 隶 ★长 安 
+p_town_6|下 邳 郡 ☆下 邳 
+p_town_7|渤 海 郡 ☆南 皮 
+p_town_8|司 隶 ★洛 阳 
+p_town_9|魏 郡 ★邺 城 
+p_town_10|汉 中 郡 ☆南 郑 
+p_town_11|巴 郡 ☆江 州 
+p_town_12|豫 章 郡 ☆柴 桑 
+p_town_13|太 原 郡 ☆晋 阳 
+p_town_14|广 阳 郡 ★北 平 
+p_town_15|吴 郡 ☆吴 县 
+p_town_16|南 郡 ★襄 阳 
+p_town_17|巨 鹿 郡 ☆信 都 
+p_town_18|辽 东 郡 ☆襄 平 
+p_town_19|蜀 郡 ★成 都 
+p_town_20|颍 川 郡 ★许 昌 
+p_town_21|东 郡 ☆濮 阳 
+p_town_22|庐 江 郡 ☆皖 县 
+p_town_23|九 江 郡 ☆合 肥 
+p_town_24|云 中 郡 ☆云 中 
+p_town_25|丹 阳 郡 ★秣 陵 
+p_town_26|北 海 国 ☆剧 县 
+p_town_27|武 都 郡 ☆下 辩 
+p_town_28|广 汉 郡 ☆梓 潼 
+p_town_29|南 郡 ☆江 陵 
+p_town_30|汝 南 郡 ☆平 舆 
+p_town_31|九 江 郡 ☆寿 春 
+p_town_32|会 稽 郡 ☆山 阴 
+p_town_33|长 沙 郡 ☆临 湘 
+p_town_34|永 昌 郡 ☆云 南 
+p_town_35|汉 阳 郡 ☆冀 县 
+p_town_36|金 城 郡 ☆金 城 
+p_town_37|武 威 郡 ☆姑 臧 
+p_town_38|上 郡 ☆狮 驼 城 
+p_town_39|赵 国 ☆邯 郸 
+p_town_40|朔 方 郡 ☆朔 方 
+p_town_41|交 趾 郡 ☆交 趾 
+p_castle_1|庐 江 郡 ○濡 须 口 
+p_castle_2|辽 西 郡 ○临 榆 关 
+p_castle_3|汉 中 郡 ○阳 平 关 
+p_castle_4|司 隶 ○函 谷 关 
+p_castle_5|司 隶 ○虎 牢 关 
+p_castle_6|东 郡 ○仓 亭 
+p_castle_7|司 隶 ○伊 阙 关 
+p_castle_8|司 隶 ○汜 水 关 
+p_castle_9|米 仓 道 ○栈 道 
+p_castle_10|弘 农 郡 ○潼 关 
+p_castle_11|扶 风 郡 ○散 关 
+p_castle_12|司 隶 ※官 渡 
+p_castle_13|司 隶 ○武 关 
+p_castle_14|巴 郡 ○扞 关 
+p_castle_15|广 汉 郡 ○瓦 口 关 
+p_castle_16|广 汉 郡 ○葭 萌 关 
+p_castle_17|广 汉 郡 ○白 水 关 
+p_castle_18|雁 门 郡 ○雁 门 关 
+p_castle_19|广 汉 郡 ○剑 门 关 
+p_castle_20|广 汉 郡 ○涪 水 关 
+p_castle_21|广 汉 郡 ○绵 竹 关 
+p_castle_22|上 谷 郡 ○居 庸 关 
+p_castle_23|上 党 郡 ○壶 口 关 
+p_castle_24|汉 阳 郡 ○街 亭 
+p_castle_25|东 郡 ※延 津 
+p_castle_26|安 定 郡 ○箫 关 
+p_castle_27|左 冯 翊 ○拒 胡 关 
+p_castle_28|牂 牁 郡 ○平 夷 关 
+p_castle_29|巴 郡 ※涪 陵 
+p_castle_30|涿 郡 ※范 阳 
+p_castle_31|平 原 郡 ※平 原 
+p_castle_32|梁 国 ※睢 阳 
+p_castle_33|丹 阳 郡 ※始 新 
+p_castle_34|庐 江 郡 ※安 丰 
+p_castle_35|平 原 郡 ※乐 陵 
+p_castle_36|汝 南 郡 ※弋 阳 
+p_castle_37|辽 东 郡 ※西 安 平 
+p_castle_38|河 东 郡 ※平 阳 
+p_castle_39|常 山 郡 ※真 定 
+p_castle_40|太 原 郡 ※阳 曲 
+p_castle_41|山 阳 郡 ※昌 邑 
+p_castle_42|乐 安 国 ※临 济 
+p_castle_43|魏 郡 ※黎 阳 
+p_castle_44|济 南 国 ※东 平 陵 
+p_castle_45|泰 山 郡 ※泰 高 
+p_castle_46|南 阳 郡 ※鲁 阳 
+p_castle_47|沛 国 ※谯 
+p_castle_48|南 郡 ※樊 城 
+p_castle_49|上 党 郡 ※谷 远 
+p_castle_50|巴 郡 ※鱼 复 
+p_castle_51|桂 阳 郡 ※郴 县 
+p_castle_52|辽 西 郡 ※阳 乐 
+p_castle_53|辽 东 郡 ※平 郭 
+p_castle_54|司 隶 ※弘 农 郡 
+p_castle_55|广 陵 郡 ※广 陵 
+p_castle_56|渔 阳 郡 ※渔 阳 
+p_castle_57|辽 西 郡 ※土 垠 
+p_castle_58|辽 东 属 国 ※昌 黎 
+p_castle_59|下 邳 郡 ※淮 陵 
+p_castle_60|左 冯 翊 ※临 晋 
+p_castle_61|扶 风 郡 ※陈 仓 
+p_castle_62|广 汉 郡 ※阴 平 
+p_castle_63|上 党 郡 ※长 子 
+p_castle_64|豫 章 郡 ※庐 陵 
+p_castle_65|豫 章 郡 ※揭 阳 
+p_castle_66|汉 中 郡 ※西 城 
+p_castle_67|代 郡 ※代 县 
+p_castle_68|司 隶 ※荥 阳 
+p_castle_69|颍 川 郡 ※襄 城 
+p_castle_70|汉 中 郡 ※上 庸 
+p_castle_71|济 阴 郡 ※鄄 城 
+p_castle_72|汉 中 郡 ※安 阳 
+p_castle_73|扶 风 郡 ※槐 里 
+p_castle_74|鲁 国 ※鲁 县 
+p_castle_75|沛 国 ※沛 县 
+p_castle_76|南 阳 郡 ※堵 阳 
+p_castle_77|琅 琊 国 ※东 武 
+p_castle_78|彭 城 国 ※彭 城 
+p_castle_79|北 地 郡 ※泥 阳 
+p_castle_80|张 掖 郡 ※乐 得 
+p_castle_81|琅 琊 国 ※开 阳 
+p_castle_82|汉 中 郡 ※房 陵 
+p_castle_83|南 阳 郡 ※南 乡 
+p_castle_84|汝 南 郡 ※汝 阴 
+p_castle_85|南 阳 郡 ※新 野 
+p_castle_86|南 郡 ※夷 陵 
+p_castle_87|巴 东 郡 ※永 安 
+p_castle_88|河 东 郡 ※安 邑 
+p_castle_89|巴 郡 ※临 江 
+p_castle_90|巴 西 ※宕 渠 
+p_castle_91|会 稽 郡 ※章 安 
+p_castle_92|陈 国 ※陈 县 
+p_castle_93|河 间 国 ※乐 成 
+p_castle_94|上 郡 ※卢 施 
+p_castle_95|东 莱 郡 ※黄 县 
+p_castle_96|巴 郡 ※阆 中 
+p_castle_97|巴 郡 ※安 汉 
+p_castle_98|巴 郡 ※垫 江 
+p_castle_99|郁 林 郡 ※定 周 
+p_castle_100|犍 为 郡 ※武 阳 
+p_castle_101|广 汉 郡 ※雒 城 
+p_castle_102|蜀 郡 ※汉 嘉 
+p_castle_103|广 汉 郡 ※德 阳 
+p_castle_104|江 夏 郡 ※华 容 
+p_castle_105|犍 为 郡 ※江 阳 
+p_castle_106|桂 阳 郡 ※耒 阳 
+p_castle_107|南 郡 ※公 安 
+p_castle_108|零 陵 郡 ※泉 陵 
+p_castle_109|江 夏 郡 ※西 陵 
+p_castle_110|长 沙 郡 ※湘 南 
+p_castle_111|犍 为 郡 ※朱 提 
+p_castle_112|吴 郡 ※余 杭 
+p_castle_113|长 沙 郡 ※巴 丘 
+p_castle_114|丹 阳 郡 ※宛 陵 
+p_castle_115|豫 章 郡 ※彭 泽 
+p_castle_116|南 海 郡 ※番 禺 
+p_castle_117|武 陵 郡 ※临 沅 
+p_castle_118|建 宁 郡 ※味 县 
+p_castle_119|豫 章 郡 ※南 昌 
+p_castle_120|南 郡 ※麦 城 
+p_castle_121|苍 梧 郡 ※广 信 
+p_castle_122|越 巂 郡 ※邛 都 
+p_castle_123|郁 林 郡 ※布 山 
+p_castle_124|牂 牁 郡 ※且 兰 
+p_castle_125|江 夏 郡 ※鄂 城 
+p_castle_126|长 沙 郡 ※益 阳 
+p_castle_127|会 稽 郡 ※建 安 
+p_castle_128|江 夏 郡 ※赤 壁 
+p_castle_129|永 昌 郡 ※不 韦 
+p_castle_130|河 内 郡 ※怀 县 
+p_castle_131|陇 西 郡 ※襄 武 
+p_castle_132|武 都 郡 ※杳 中 
+p_castle_133|阳 平 郡 ※馆 陶 
+p_castle_134|安 定 郡 ※临 泾 
+p_castle_135|巨 鹿 郡 ※瘿 陶 
+p_castle_136|沛 国 ※蕲 县 
+p_castle_137|清 河 国 ※甘 陵 
+p_castle_138|汉 阳 郡 ※勇 士 
+p_castle_139|金 城 郡 ※西 都 
+p_castle_140|上 郡 ※鸡 鹿 寨 
+p_castle_141|酒 泉 郡 ※福 禄 
+p_castle_142|敦 煌 郡 ※敦 煌 
+p_castle_143|桂 阳 郡 ※曲 江 
+p_castle_144|丹 阳 郡 ※泾 县 
+p_castle_145|湘 东 郡 ※湘 东 
+p_castle_146|临 川 郡 ※临 川 
+p_castle_147|汝 南 郡 ※宜 春 
+p_castle_148|汝 南 郡 ※汝 阳 
+p_castle_149|五 原 郡 ※五 原 
+p_castle_150|北 地 郡 ※高 平 
+p_castle_151|青 羌 根 据 地 ※渝 氏 
+p_castle_152|合 浦 郡 ※合 浦 
+p_castle_153|九 真 郡 ※移 风 
+p_castle_154|高 凉 郡 ※安 宁 
+p_castle_155|武 陵 郡 ※辰 阳 
+p_castle_156|乐 浪 郡 ※逐 城 
+p_village_1|顿 丘 
+p_village_2|平 乡 
+p_village_3|东 安 平 
+p_village_4|西 平 昌 
+p_village_5|灵 丘 
+p_village_6|观 阳 
+p_village_7|东 安 陵 
+p_village_8|揭 阳 
+p_village_9|江 阳 
+p_village_10|南 始 平 
+p_village_11|广 武 
+p_village_12|皖 县 
+p_village_13|昌 阳 
+p_village_14|襄 昌 
+p_village_15|历 城 
+p_village_16|昌 陵 
+p_village_17|姑 夏 
+p_village_18|兴 古 
+p_village_19|夜 郎 
+p_village_20|浑 弥 
+p_village_21|金 城 
+p_village_22|清 阳 
+p_village_23|黄 平 
+p_village_24|汉 平 
+p_village_25|林 虑 
+p_village_26|西 陵 
+p_village_27|西 泰 
+p_village_28|安 市 
+p_village_29|辰 阳 
+p_village_30|南 野 
+p_village_31|河 阜 
+p_village_32|曲 丘 
+p_village_33|临 济 
+p_village_34|高 邑 
+p_village_35|罗 阳 
+p_village_36|新 吴 
+p_village_37|宾 徒 
+p_village_38|中 丘 
+p_village_39|薛 县 
+p_village_40|成 武 
+p_village_41|哈 平 
+p_village_42|宣 威 
+p_village_43|阳 乐 
+p_village_44|龙 勒 
+p_village_45|昭 文 
+p_village_46|临 邛 
+p_village_47|临 允 
+p_village_48|阳 信 
+p_village_49|显 美 
+p_village_50|石 田 
+p_village_51|广 隆 
+p_village_52|岁 貘 
+p_village_53|廪 丘 
+p_village_54|山 阳 
+p_village_55|南 武 阳 
+p_village_56|东 安 
+p_village_57|壮 武 
+p_village_58|永 寿 
+p_village_59|下 稚 
+p_village_60|武 邑 
+p_village_61|楼 烦 
+p_village_62|云 县 
+p_village_63|凤 县 
+p_village_64|石 邑 
+p_village_65|挺 县 
+p_village_66|修 云 
+p_village_67|临 邑 
+p_village_68|巴 渠 
+p_village_69|建 平 
+p_village_70|符 节 
+p_village_71|临 沂 
+p_village_72|东 平 舒 
+p_village_73|小 沛 
+p_village_74|遂 久 
+p_village_75|广 昌 
+p_village_76|涿 鹿 
+p_village_77|乐 安 
+p_village_78|巫 县 
+p_village_79|寻 魏 
+p_village_80|大 陵 
+p_village_81|平 陶 
+p_village_82|临 水 
+p_village_83|汲 县 
+p_village_84|巴 东 
+p_village_85|陈 乡 
+p_village_86|罗 布 
+p_village_87|广 县 
+p_village_88|渔 阳 
+p_village_89|玄 菟 
+p_village_90|陵 阳 
+p_village_91|居 风 
+p_village_92|定 阳 
+p_village_93|丹 阳 
+p_village_94|寻 阳 
+p_village_95|凉 平 
+p_village_96|鄢 陵 
+p_village_97|汝 阳 
+p_village_98|泰 山 
+p_village_99|襄 邑 
+p_village_100|高 县 
+p_village_101|任 城 
+p_village_102|句 章 
+p_village_103|武 进 
+p_village_104|资 中 
+p_village_105|固 始 
+p_village_106|玄 氏 
+p_village_107|兴 化 
+p_village_108|阳 城 
+p_village_109|利 城 
+p_village_110|乌 程 
+p_village_111|虞 县 
+p_village_112|兴 渠 
+p_village_113|武 城 
+p_village_114|都 匀 
+p_village_115|安 乐 
+p_village_116|毋 敦 
+p_village_117|望 海 
+p_village_118|涿 县 
+p_village_119|淮 陵 
+p_village_120|沮 阳 
+p_village_121|怀 安 
+p_village_122|比 凉 
+p_village_123|广 牧 
+p_village_124|阴 县 
+p_village_125|潞 县 
+p_village_126|令 居 
+p_village_127|勇 县 
+p_village_128|武 县 
+p_village_129|羌 道 
+p_village_130|祖 厉 
+p_village_131|高 氏 
+p_village_132|安 水 
+p_village_133|环 渭 
+p_village_134|氏 旗 
+p_village_135|朝 那 
+p_village_136|合 水 
+p_village_137|会 阳 
+p_village_138|武 功 
+p_village_139|阳 县 
+p_village_140|凉 县 
+p_village_141|强 氏 
+p_village_142|息 风 
+p_village_143|上 会 
+p_village_144|正 宁 
+p_village_145|泥 丸 
+p_village_146|勒 阴 
+p_village_147|富 平 
+p_village_148|户 县 
+p_village_149|阴 般 
+p_village_150|安 阳 
+p_village_151|蒲 板 
+p_village_152|阳 阿 
+p_village_153|陆 浑 
+p_village_154|谷 城 
+p_village_155|平 县 
+p_village_156|巩 县 
+p_village_157|原 武 
+p_village_158|中 阳 
+p_village_159|涅 县 
+p_village_160|九 原 
+p_village_161|荡 狄 
+p_village_162|洁 水 
+p_village_163|襄 垣 
+p_village_164|上 艾 
+p_village_165|叶 县 
+p_village_166|安 众 
+p_village_167|顺 阳 
+p_village_168|获 嘉 
+p_village_169|共 县 
+p_village_170|新 郑 
+p_village_171|宛 阳 
+p_village_172|新 阳 
+p_village_173|荡 阴 
+p_village_174|魏 县 
+p_village_175|清 渊 
+p_village_176|白 马 
+p_village_177|新 汲 
+p_village_178|扶 沟 
+p_village_179|句 阳 
+p_village_180|方 与 
+p_village_181|丰 县 
+p_village_182|虹 县 
+p_village_183|吕 县 
+p_village_184|成 德 
+p_village_185|阳 安 
+p_village_186|隆 中 
+p_village_187|平 陵 
+p_village_188|新 黎 
+p_village_189|富 波 
+p_village_190|博 安 
+p_village_191|随 县 
+p_village_192|乌 林 
+p_village_193|阳 兴 
+p_village_194|永 修 
+p_village_195|风 南 
+p_village_196|襄 安 
+p_village_197|龙 川 
+p_village_198|鳌 县 
+p_village_199|博 南 
+p_village_200|诸 暨 
+p_village_201|永 平 
+p_village_202|铜 陵 
+p_village_203|桐 庐 
+p_village_204|永 县 
+p_village_205|方 县 
+p_village_206|临 沮 
+p_village_207|秭 归 
+p_village_208|汉 丰 
+p_village_209|宣 汉 
+p_village_210|竹 溪 
+p_village_211|汤 县 
+p_village_212|成 固 
+p_village_213|河 池 
+p_village_214|故 道 
+p_village_215|西 和 
+p_village_216|定 军 
+p_village_217|城 口 
+p_village_218|白 水 
+p_village_219|汉 寿 
+p_village_220|水 仁 
+p_village_221|南 广 
+p_village_222|刚 县 
+p_village_223|严 道 
+p_village_224|汉 安 
+p_village_225|安 岳 
+p_village_226|江 原 
+p_village_227|澧 县 
+p_village_228|大 足 
+p_village_229|平 武 
+p_village_230|西 充 
+p_village_231|白 牛 邑 
+p_village_232|羊 渠 
+p_village_233|汉 昌 
+p_village_234|巴 县 
+p_village_235|永 丰 
+p_village_236|涪 县 
+p_village_237|青 川 
+p_village_238|宁 强 
+p_village_239|支 阳 
+p_village_240|昭 武 
+p_salt_mine|盐 矿 
+p_four_ways_inn|四 方 客 栈 
+p_test_scene|测 试 场 景 
+p_battlefields|战 场 
+p_dhorak_keep|多 拉 克 要 塞 
+p_training_ground|训 练 场 
+p_training_ground_1|训 练 场 
+p_training_ground_2|训 练 场 
+p_training_ground_3|训 练 场 
+p_training_ground_4|训 练 场 
+p_training_ground_5|训 练 场 
+p_steppe_bandit_spawn_point|草 原 
+p_taiga_bandit_spawn_point|雪 原 
+p_forest_bandit_spawn_point|森 林 
+p_mountain_bandit_spawn_point|高 地 
+p_sea_raider_spawn_point_1|海 岸 
+p_sea_raider_spawn_point_2|海 岸 
+p_desert_bandit_spawn_point|沙 漠 
+p_zhenhunta|镇 魂 塔 
+p_tiekuang|矿 场 
+p_yangmachang|养 马 场 
+p_matou_1|会 稽 - 码 头 
+p_matou_2|吴 县 - 码 头 
+p_matou_3|秣 陵 - 码 头 
+p_matou_4|下 邳 - 码 头 
+p_matou_5|剧 县 - 码 头 
+p_matou_6|临 淄 - 码 头 
+p_matou_7|南 皮 - 码 头 
+p_matou_8|襄 平 - 码 头 
